@@ -12,3 +12,7 @@ Nos vemos allí, ¡estoy deseando empezar!
 
 ---
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+theme: minima
+Title: la vida
+Author: saúl
+Description: una historia

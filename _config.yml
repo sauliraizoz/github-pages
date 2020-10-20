@@ -2,10 +2,12 @@ title: La vida
 author: sauliraizoz
 email: sauliraizoz@opendeusto.es
 description: > # this means to ignore newlines until "baseurl:"
-Este es un lugar donde se cuentan cosas muy guais
+  Este es un lugar donde se cuentan cosas muy guais
 
 # social links
 twitter_username: sauliraizoz # NO incluyas el carácter @ character, ¡o la compilación fallará!
 github_username:  sauliraizoz # NO incluyas el carácter @ character, ¡o la compilación fallará!
 
 show_excerpts: true # cámbialo a false para eliminar los extractos de la página principal
+
+theme: minima
